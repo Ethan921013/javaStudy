@@ -18,6 +18,8 @@ public class Main {
 
         System.out.println(first + " | " + seconds);
 
+        System.out.println("test");
+
 
 
     }
